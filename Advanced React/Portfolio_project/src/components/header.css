@@ -1,0 +1,8 @@
+.header_elements {
+    transition: transform 0.5s ease-in-out; 
+}
+
+.header_elements:hover {
+    transform: scale(1.2);
+}
+

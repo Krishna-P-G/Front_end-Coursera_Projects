@@ -1,0 +1,15 @@
+.card_each:hover {
+    transform: scale(1.1);
+}
+
+.card_each{
+    transition: transform 0.5s ease-in-out; 
+}
+
+.see_more:hover{
+    transform: scale(1.1);
+}
+
+.see_more{
+    transition: transform 0.5s ease-in-out;
+}
